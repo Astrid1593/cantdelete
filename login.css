@@ -1,0 +1,14 @@
+.modal-content{
+    color: rgb(39, 39, 39);
+}
+input{
+    color: hotpink;
+}
+#defaultPfpLogin{
+    width: 35px;
+}
+#loginButton{
+    padding-top: 2px;
+    height: 25px;
+    width: 34.5%;
+}
